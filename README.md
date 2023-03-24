@@ -13,14 +13,21 @@
 - Navigate to the directory where you have saved the program.
 - Compile the program using the following command:
 
-Copy code
-g++ even_or_odd.cpp -o even_or_odd
+<h3 align=" center" >Copy code </h3>
+
+[g++ even_or_odd.cpp](http://g++even_or_odd.cpp)
+
+[-o even_or_odd](http://-oeven_or_odd)
+
 - Replace even_or_odd.cpp with the name of the file containing the program code.
 
-Run the program using the following command:
-bash
-Copy code
-./even_or_odd
+<h3 align=" center" >Run the program using the following command:</h3>
+
+<h2 align="center">BASH</h2>
+<h3 align=" center" >Copy code </h3>
+
+[./even_or_odd](http://./even_or_odd)
+
 - Enter a number when prompted and press Enter.
 - The program will then output whether the entered number is even or odd using both methods.
 
