@@ -1,6 +1,8 @@
 <h1 align="center" >Even or Odd Checker👩‍💻</h1>
 
-- This program checks whether a number entered by the user is even or odd using two different methods:<br> modulus operator and bitwise AND operator.
+- This program checks whether a number entered by the user is even or odd using two different methods:<br> 
+
+- modulus operator and bitwise AND operator.
 <div align="center" >
 <img height="100" wedith="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--it7aWv4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjdim9k4525gck7ko2hk.gif"></div>
 <hr>
