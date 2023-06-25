@@ -11,7 +11,7 @@
 - Before running the program, you need to have a C++ compiler installed on your machine.
 - If you don't have one already, you can download and install GCC.
 
-<h1 align="center" >How to Run the Program▶️</h1>
+<h1 align="center" >How to Run the Program:-▶️</h1>
 
 - Open a command prompt or terminal window.
 - Navigate to the directory where you have saved the program.
