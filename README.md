@@ -10,6 +10,7 @@
 
 - Before running the program, you need to have a C++ compiler installed on your machine.
 - If you don't have one already, you can download and install GCC.
+<hr>
 
 <h1 align="center" >How to Run the Program:-▶️</h1>
 
