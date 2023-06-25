@@ -42,6 +42,6 @@
 - The second program uses bitwise AND operator & to check whether the least significant bit of the number is set to 1 or not.
 - If it is 0, then the number is even, otherwise, it is odd.
 
-<h1 align="center" >License📙</h1>
+<h1 align="center" >License:-📙</h1>
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
