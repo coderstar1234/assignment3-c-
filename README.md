@@ -36,7 +36,7 @@
 - Enter a number when prompted and press Enter.
 - The program will then output whether the entered number is even or odd using both methods.
 <hr>
-<h1 align="center" >How it Works💻</h1>
+<h1 align="center" >How it Works:-💻</h1>
 
 - The first program uses the modulus operator % to determine whether the entered number is even or odd. 
 - If the remainder when the number is divided by 2 is zero, then the number is even, otherwise, it is odd.
