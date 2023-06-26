@@ -28,7 +28,7 @@
 
 <h3 align=" center" >Run the program using the following command:⚡</h3>
 
-<h2 align="center">BASH🏃</h2>
+<h2 align="center">BASH:-🏃</h2>
 <h3 align=" center" >Copy code:-📝 </h3>
 
 [./even_or_odd](http://./even_or_odd)
