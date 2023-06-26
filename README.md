@@ -24,7 +24,9 @@
 [g++ even_or_odd.cpp](http://g++even_or_odd.cpp)
 
 [-o even_or_odd](http://-oeven_or_odd)
+
 </p>
+
 - Replace even_or_odd.cpp with the name of the file containing the program code.
 
 <h3 align=" center" >Run the program using the following command:⚡</h3>
