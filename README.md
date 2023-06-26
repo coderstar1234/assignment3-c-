@@ -20,7 +20,7 @@
 <hr>
 <h3 align=" center" >Copy code:-📝 </h3>
 
-[g++ even_or_odd.cpp](http://g++even_or_odd.cpp)
+<p align="center">[g++ even_or_odd.cpp](http://g++even_or_odd.cpp)</p>
 
 [-o even_or_odd](http://-oeven_or_odd)
 
