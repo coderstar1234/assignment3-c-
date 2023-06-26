@@ -18,7 +18,7 @@
 - Navigate to the directory where you have saved the program.
 - Compile the program using the following command:
 
-<h3 align=" center" >Copy code📝 </h3>
+<h3 align=" center" >Copy code:-📝 </h3>
 
 [g++ even_or_odd.cpp](http://g++even_or_odd.cpp)
 
