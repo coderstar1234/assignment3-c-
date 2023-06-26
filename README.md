@@ -18,12 +18,13 @@
 - Navigate to the directory where you have saved the program.
 - Compile the program using the following command:
 <hr>
+<p align="center">
 <h3 align=" center" >Copy code:-📝 </h3>
 
-<p align="center">[g++ even_or_odd.cpp](http://g++even_or_odd.cpp)</p>
+[g++ even_or_odd.cpp](http://g++even_or_odd.cpp)
 
 [-o even_or_odd](http://-oeven_or_odd)
-
+</p>
 - Replace even_or_odd.cpp with the name of the file containing the program code.
 
 <h3 align=" center" >Run the program using the following command:⚡</h3>
